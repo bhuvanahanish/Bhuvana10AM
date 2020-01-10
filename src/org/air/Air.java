@@ -8,5 +8,10 @@ System.out.println("aeroplane");
 public void heliCopter() {
 	// TODO Auto-generated method stub
 System.out.println("helicopter");
+System.out.println("helicopter");
+System.out.println("helicopter");
+System.out.println("helicopter");
+System.out.println("helicopter");
+
 }
 }
